@@ -29,6 +29,8 @@ public class BubbleFrame extends JFrame{
         setLayout(null);
         setLocationRelativeTo(null);// JFrame을 가운데로 배치
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //x버튼으로  창 끌때 JVM같이 종료
+
+
     }
 
     public static void main(String[] args) {
